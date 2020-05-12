@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/30_days_of_java_10/30_days_of_java_10.iml" filepath="$PROJECT_DIR$/30_days_of_java_10/30_days_of_java_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30_days_of_java_18_Queues and Stacks/30_days_of_java_18_Queues and Stacks.iml" filepath="$PROJECT_DIR$/30_days_of_java_18_Queues and Stacks/30_days_of_java_18_Queues and Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30_days_of_java_20_Sorting/30_days_of_java_20_Sorting.iml" filepath="$PROJECT_DIR$/30_days_of_java_20_Sorting/30_days_of_java_20_Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_task34_List/java_task34_List.iml" filepath="$PROJECT_DIR$/java_task34_List/java_task34_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_task35_Map/java_task35_Map.iml" filepath="$PROJECT_DIR$/java_task35_Map/java_task35_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_task36_Stack/java_task36_Stack.iml" filepath="$PROJECT_DIR$/java_task36_Stack/java_task36_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_task38_Generics/java_task38_Generics.iml" filepath="$PROJECT_DIR$/java_task38_Generics/java_task38_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regex_Detect_HTML_Tags/regex_Detect_HTML_Tags.iml" filepath="$PROJECT_DIR$/regex_Detect_HTML_Tags/regex_Detect_HTML_Tags.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regex_Detect_HTML_links/regex_Detect_HTML_links.iml" filepath="$PROJECT_DIR$/regex_Detect_HTML_links/regex_Detect_HTML_links.iml" />
+    </modules>
+  </component>
+</project>
